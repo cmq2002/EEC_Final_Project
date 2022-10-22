@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=RS485_A Pin=P3-1
+Removed Pin From Net: NetName=RS485_B Pin=P3-2
+Removed Pin From Net: NetName=RS485_5V Pin=P3-3
+Added Component: Designator=CN3(CONN/RJ45/x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS485_A Pin=CN3-1
+Added Pin To Net: NetName=RS485_B Pin=CN3-2
+Added Pin To Net: NetName=RS485_5V Pin=CN3-3
+Added Pin To Net: NetName=RS485_5V Pin=CN3-4
+Added Pin To Net: NetName=RS485_5V Pin=CN3-5
+Added Pin To Net: NetName=RS485_5V Pin=CN3-6
+Added Pin To Net: NetName=GND Pin=CN3-7
+Added Pin To Net: NetName=GND Pin=CN3-8
+Added Pin To Net: NetName=GND Pin=CN3-9
+Added Pin To Net: NetName=GND Pin=CN3-10
+Added Pin To Net: NetName=RS485_A Pin=CN3-11
+Added Pin To Net: NetName=RS485_B Pin=CN3-12
+Added Pin To Net: NetName=RS485_5V Pin=CN3-13
+Added Pin To Net: NetName=RS485_5V Pin=CN3-14
+Added Pin To Net: NetName=RS485_5V Pin=CN3-15
+Added Pin To Net: NetName=RS485_5V Pin=CN3-16
+Added Pin To Net: NetName=GND Pin=CN3-17
+Added Pin To Net: NetName=GND Pin=CN3-18
+Added Member To Class: ClassName=SCHEM_1 Member=Component CN3 RJ45 x2
+Added Room: Name=SCHEM_1
