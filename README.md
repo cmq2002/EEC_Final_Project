@@ -1,4 +1,4 @@
-#  HCMUT EEC Final Project
+#  HCMUT Electrical Electronic Course Final Project
 ## General Information:
 - This porject includes the schematic design and PCB layout of a circuit that is able:
   - to measure the current of an 220V AC signal,
